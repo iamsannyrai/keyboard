@@ -82,13 +82,11 @@ class Keypad extends StatelessWidget {
               color: Colors.grey.withOpacity(0.1),
               spreadRadius: 2,
               blurRadius: 10,
-              offset: Offset(0, 0),
             ),
             BoxShadow(
               color: Colors.grey.withOpacity(0.1),
               spreadRadius: -1,
               blurRadius: 2,
-              offset: Offset(0, 0),
             )
           ],
         ),
